@@ -1,6 +1,8 @@
 {
   "devDependencies": {
-    "vitepress": "^1.6.4"
+    "busuanzi.pure.js": "^1.0.3",
+    "vitepress": "^1.6.4",
+    "vitepress-theme-website": "^1.0.8"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
