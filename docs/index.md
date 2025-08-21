@@ -6,7 +6,7 @@ hero:
   name: "凌兮洛 Wiki"
   tagline: 一个基于在Leaves核心上开发的服务器
   image:
-    src: ./images/logo.png
+    src: ./logo.png
     alt: VitePress
   actions:
     - theme: primary
