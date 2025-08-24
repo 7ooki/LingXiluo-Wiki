@@ -18,10 +18,13 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '示例',
+        text: '简介', link: '/docs/zh/description'
+      },
+      {
+        text: '如何进入',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '下载客户端', link: '/docs/zh/client' },
+          { text: '下载Java', link: '/docs/zh/java' }
         ]
       }
     ],
